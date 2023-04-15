@@ -1,11 +1,12 @@
 # Kodawari restaurant 
 <body>
-    <title>Le restaurant traditionelle des japonais</title>
+    <li>Le restaurant traditionelle des japonais</li>
   <header>
-       <h1>Bienvenue sur le site du fameux Kodawari/h1>
-    <hi>L'endroit où bonne cuisine et bonne ambiance se rencontrent.</hi>
-    <img src="./images/restoo.jpeg" alt="restoo">
-       <h2>Bienvenue sur le site du fameux Kodawari/h2>
+   <img src="./images/restoo.jpeg" alt="restoo">
+  <header>
+   <h1>Bienvenue sur le site du fameux Kodawari</h1>
+   <li>L'endroit où bonne cuisine et bonne ambiance se rencontrent.</li>
+    <img src="./images/resto.jpeg" alt="resto">
  </nav>
   <header>
  <main>
