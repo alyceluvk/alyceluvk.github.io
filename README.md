@@ -9,7 +9,7 @@
    <li>Le restaurant traditionelle japonais</li>
   <header>
    <img src="./images/restoo.jpeg" alt="restoo">
- </nav>
+ <nav>
   <header>
  <main>
          <p>Venez découvrir notre merveilleux jardin aux saveurs</p>
