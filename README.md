@@ -1,6 +1,7 @@
 # Kodawari restaurant 
 <body>
    <h1>Bienvenue sur le site du fameux Kodawari</h1>
+   <link rel="stylesheet" href="style.css">
    <p>L'endroit où <strong>bonne cuisine</strong> et <strong>bonne ambiance</strong> se rencontrent.<p>
   <header>
     <img src="./images/resto.jpeg" alt="resto">
