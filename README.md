@@ -1,3 +1,3 @@
 # Kafebuki
  <body>
-    <title>Intitulé de ma page</title>
+    <title>KAFEBUKI</title>
