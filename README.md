@@ -4,7 +4,7 @@
    <link rel="stylesheet" href="style.css">
    <p>L'endroit où <strong>bonne cuisine</strong> et <strong>bonne ambiance</strong> se rencontrent.<p>
   <header>
-    <img src="./images/resto.jpeg" alt="resto">
+   <img src="./images/resto.jpeg" alt="resto">
   <header>
 <body>
    <h2>Le restaurant traditionelle japonais</h2>
